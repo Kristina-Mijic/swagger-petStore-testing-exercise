@@ -1,0 +1,18 @@
+{
+  "id": 1234,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Beny",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

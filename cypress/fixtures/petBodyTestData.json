@@ -1,0 +1,58 @@
+[
+  {
+    "id": 123,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "Beny",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+
+  {
+    "id": 1112,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "Beny",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+
+  {
+    "id": 1234567898765,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "Beny",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+]

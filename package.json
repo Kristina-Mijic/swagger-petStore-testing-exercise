@@ -1,0 +1,14 @@
+{
+  "name": "swagger-petstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pet": "cypress run --spec 'cypress/e2e/swaggerPetStore.cy.js' --env url=https://petstore.swagger.io/v2"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
